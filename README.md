@@ -1,2 +1,2 @@
 # leetcode
-This is a repo of github solutuions that might help other coders
+This is a repo of github solutions that might help other coders
